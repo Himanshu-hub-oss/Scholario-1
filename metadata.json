@@ -1,0 +1,7 @@
+{
+  "name": "Scholario",
+  "description": "The all-in-one student super app featuring Splitzy expense manager, SIP compounding guide, AI study tutor, Year-tailored syllabus & PYQs, Grievance portal, and Career hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
